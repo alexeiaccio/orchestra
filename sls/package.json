@@ -3,7 +3,7 @@
     "@jimdo/serverless-dotenv": "^1.0.0",
     "dotenv": "^6.2.0",
     "googleapis": "27",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "serverless-offline": "^3.25.10"
   }
 }
