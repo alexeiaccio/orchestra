@@ -4,6 +4,6 @@
     "dotenv": "^6.2.0",
     "googleapis": "27",
     "nodemailer": "^5.1.1",
-    "serverless-offline": "^3.25.10"
+    "serverless-offline": "^3.33.0"
   }
 }
